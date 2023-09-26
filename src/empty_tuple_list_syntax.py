@@ -1,0 +1,1 @@
+[] = () #valid syntax unpack empty tuple
