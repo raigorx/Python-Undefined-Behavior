@@ -1,4 +1,4 @@
-# File: module.py
+# File: module_error.py
 
 
 def some_weird_name_func_():
